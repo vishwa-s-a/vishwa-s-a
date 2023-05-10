@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @vishwa-s-a
 - 👀 I’m interested in cyber security and web development domains
-- 🌱 I’m currently doing my bachelor
-
-<
+- 🌱 I’m currently doing my bachelor in Computer Science Engineering with specialisation in information security
